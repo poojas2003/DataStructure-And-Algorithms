@@ -1,130 +1,124 @@
-<!-- Premium DSA Repository README -->
+# 🚀 Data Structures & Algorithms in Java  
 
-<h1 align="center">🚀 Data Structures & Algorithms in Java</h1>
+> 💻 Daily DSA Practice | 📅 Consistent Commits | 🧠 Problem Solving Journey  
 
-<p align="center">
-  💻 Daily DSA Practice • 📅 Consistent Commits • 🧠 Interview Preparation
-</p>
+Hi, I'm **Pooja S P** 👋  
+I'm currently mastering **Data Structures & Algorithms using Java** and committing my progress every single day.
 
-<p align="center">
-  <a href="https://github.com/poojas2003">
-    <img src="https://img.shields.io/github/followers/?label=Followers&style=for-the-badge" />
-  </a>
-  <img src="https://img.shields.io/github/stars/poojas2003?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Code-Java-orange?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/DSA-Daily_Practice-blue?style=for-the-badge" />
-</p>
+This repository is a reflection of:
+- 📈 Consistency  
+- 🧩 Logical thinking  
+- 🔍 Problem-solving skills  
+- 💪 Discipline  
 
 ---
 
-## 👩‍💻 About This Repository
+## 📚 What You'll Find Here
 
-Hi, I'm **Pooja Pujari** 👋  
+✔️ Concept-wise structured solutions  
+✔️ Clean and readable Java code  
+✔️ Optimized approaches  
+✔️ Daily learning updates  
+✔️ Interview-focused problems  
 
-This repository represents my disciplined journey of mastering:
+---
 
-> 💡 Data Structures  
-> 💡 Algorithms  
-> 💡 Problem Solving  
-> 💡 Interview Preparation  
+## 🗂️ Topics Covered
 
-📌 I follow one rule:
+### 🔹 Basics
+- Time & Space Complexity  
+- Recursion  
+- Bit Manipulation  
+- Math for DSA  
+
+### 🔹 Data Structures
+- Arrays  
+- Strings  
+- Linked List  
+- Stack  
+- Queue  
+- HashMap  
+- HashSet  
+- Tree  
+- Binary Tree  
+- Binary Search Tree  
+- Heap (Priority Queue)  
+- Graph  
+- Trie  
+
+### 🔹 Algorithms
+- Sorting (Bubble, Selection, Insertion, Merge, Quick)  
+- Searching (Binary Search)  
+- Sliding Window  
+- Two Pointer Technique  
+- Backtracking  
+- Greedy  
+- Dynamic Programming  
+- Graph Algorithms (BFS, DFS)  
+
+---
+
+## 📅 My Learning Rule
 
 ```
-No Zero Days.
-Learn → Solve → Commit → Repeat.
+✅ Learn one concept daily  
+✅ Solve at least one problem  
+✅ Commit every single day  
 ```
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+**No zero days. Only progress days.**
 
 ---
 
-## 🗂️ Structured Learning Roadmap
+## 🎯 Goal
 
-### 🟢 Phase 1: Foundations
-- ✅ Time & Space Complexity
-- ✅ Arrays
-- ✅ Strings
-- 🔄 Recursion
-- ⏳ Bit Manipulation
-
-### 🔵 Phase 2: Core Data Structures
-- Linked List
-- Stack
-- Queue
-- HashMap / HashSet
-- Heap (Priority Queue)
-- Tree & BST
-
-### 🟣 Phase 3: Advanced Concepts
-- Graph (BFS, DFS)
-- Sliding Window
-- Two Pointers
-- Greedy Algorithms
-- Backtracking
-- Dynamic Programming
+To become:
+- Strong in problem-solving  
+- Interview ready  
+- Confident Java developer  
+- Software Engineer 🚀  
 
 ---
 
-## 🧠 Problem Solving Platforms
+## 📊 Progress Tracker
 
-- 🔹 LeetCode  
-- 🔹 GeeksforGeeks  
-- 🔹 CodeStudio  
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-## 🎯 My Goal
-
-- Crack top tech interviews  
-- Become a strong problem solver  
-- Build deep DSA intuition  
-- Transition into a high-level Software Engineer 🚀  
+| Topic        | Status        |
+|--------------|--------------|
+| Arrays       | 🔄 In Progress |
+| Strings      | 🔄 In Progress |
+| Linked List  | 🔄 In Progress |
+| Stack        | ⏳ Coming Soon |
+| Queue        | ⏳ Coming Soon |
+| Trees        | ⏳ Coming Soon |
+| Graph        | ⏳ Coming Soon |
+| DP           | ⏳ Coming Soon |
 
 ---
 
-## 💎 Why This Repository Stands Out
+## 🛠️ Tech Stack
 
-✔️ Daily commits  
-✔️ Clean, structured code  
-✔️ Optimized solutions  
-✔️ Continuous improvement  
-✔️ Interview-focused practice  
+- Language: **Java**  
+- IDE: VS Code  
+- Platforms: LeetCode  
 
 ---
 
-## ⭐ If You Like This Journey
+## 🌟 Why This Repository?
 
-Give this repo a ⭐  
-Fork it  
-Start your own DSA streak  
+This repository is not just about code.  
+It represents:
 
-Let’s grow together 🚀
+> **Discipline beats motivation.**
+
+If you're also learning DSA, feel free to fork ⭐ and start your journey today!
 
 ---
 
-<p align="center">
-  🔥 Consistency + Discipline + Code = Success 🔥
-</p>
+## 🤝 Let's Connect
+
+If you are preparing for interviews or learning DSA,  
+let’s grow together 💡  
+
+---
+
+🔥 **Consistency + Clarity + Code = Confidence**
