@@ -1,174 +1,124 @@
-<div align="center">
+# 🚀 Data Structures & Algorithms in Java  
 
-```
-██████╗ ███████╗ █████╗
-██╔══██╗██╔════╝██╔══██╗
-██║  ██║███████╗███████║
-██║  ██║╚════██║██╔══██║
-██████╔╝███████║██║  ██║
-╚═════╝ ╚══════╝╚═╝  ╚═╝
-```
+> 💻 Daily DSA Practice | 📅 Consistent Commits | 🧠 Problem Solving Journey  
 
-# 🧠 DSA Mastery — One Commit at a Time
+Hi, I'm **Pooja Pujari** 👋  
+I'm currently mastering **Data Structures & Algorithms using Java** and committing my progress every single day.
 
-**Turning coffee ☕ and curiosity into clean algorithms, daily.**
-
-![Commits](https://img.shields.io/badge/Streak-Daily%20Commits-brightgreen?style=for-the-badge&logo=github)
-![Status](https://img.shields.io/badge/Status-Actively%20Learning-blue?style=for-the-badge)
-![Topics](https://img.shields.io/badge/Topics-Arrays%20→%20Graphs-orange?style=for-the-badge)
-
-</div>
+This repository is a reflection of:
+- 📈 Consistency  
+- 🧩 Logical thinking  
+- 🔍 Problem-solving skills  
+- 💪 Discipline  
 
 ---
 
-## 👋 What is this?
+## 📚 What You'll Find Here
 
-This repo is my **public learning journal** for Data Structures & Algorithms in **Python** .
-
-Every single day, I:
-- 📖 Study a concept
-- ✍️ Implement it from scratch
-- 💡 Write notes on what clicked (and what didn't)
-- ✅ Commit it — no skipping, no shortcuts
-
-> *"The best way to learn is to do it in public."*
+✔️ Concept-wise structured solutions  
+✔️ Clean and readable Java code  
+✔️ Optimized approaches  
+✔️ Daily learning updates  
+✔️ Interview-focused problems  
 
 ---
 
-## 🗺️ The Roadmap
+## 🗂️ Topics Covered
+
+### 🔹 Basics
+- Time & Space Complexity  
+- Recursion  
+- Bit Manipulation  
+- Math for DSA  
+
+### 🔹 Data Structures
+- Arrays  
+- Strings  
+- Linked List  
+- Stack  
+- Queue  
+- HashMap  
+- HashSet  
+- Tree  
+- Binary Tree  
+- Binary Search Tree  
+- Heap (Priority Queue)  
+- Graph  
+- Trie  
+
+### 🔹 Algorithms
+- Sorting (Bubble, Selection, Insertion, Merge, Quick)  
+- Searching (Binary Search)  
+- Sliding Window  
+- Two Pointer Technique  
+- Backtracking  
+- Greedy  
+- Dynamic Programming  
+- Graph Algorithms (BFS, DFS)  
+
+---
+
+## 📅 My Learning Rule
 
 ```
-Phase 1 — Foundations          ████████████░░░░  75%
-Phase 2 — Recursion & Trees    ████░░░░░░░░░░░░  25%
-Phase 3 — Graphs & DP          ░░░░░░░░░░░░░░░░   0%
-Phase 4 — Advanced Topics      ░░░░░░░░░░░░░░░░   0%
+✅ Learn one concept daily  
+✅ Solve at least one problem  
+✅ Commit every single day  
 ```
 
-| Phase | Topics | Status |
-|-------|--------|--------|
-| 🟢 Phase 1 | Arrays, Strings, PrefixSum, Two Pointers, Sliding Window | In Progress |
-| 🔵 Phase 2 | Recursion, Stacks, Queues, Linked Lists, Trees, BST,Hashing | Up Next |
-| 🟠 Phase 3 | Graphs (BFS/DFS), Heaps, Dynamic Programming | Locked |
-| 🔴 Phase 4 | Tries, Segment Trees, Bit Manipulation, Backtracking | Locked |
+**No zero days. Only progress days.**
 
 ---
 
-## 📁 Repo Structure
+## 🎯 Goal
 
-```
-📦 DSA-Journey/
-├── 📂 arrays/
-│   ├── notes.md          ← Concept explanation in my own words
-│   ├── 📂 concepts/
-|   |   |--prefixsum.py   ← Solved problems with approach + code
-|   |   |            
-│   └── cheatsheet.md     ← Quick reference
-├── 📂 strings/
-├── 📂 hashing/
-├── 📂 ...
-└── 📜 README.md          ← You are here
-```
+To become:
+- Strong in problem-solving  
+- Interview ready  
+- Confident Java developer  
+- Future Software Engineer 🚀  
 
 ---
 
-## ✨ Featured Problems
+## 📊 Progress Tracker
 
-> Problems I'm most proud of solving
-
-| # | Problem | Concept | Difficulty | Solution |
-|---|---------|---------|------------|----------|
-| 1 | Two Sum | HashMap | 🟢 Easy | [View →](./01-arrays/problems/two-sum.md) |
-| 2 | Longest Substring Without Repeating | Sliding Window | 🟡 Medium | [View →](./03-sliding-window/) |
-| 3 | Valid Parentheses | Stack | 🟢 Easy | [View →](./05-stacks/) |
-
-*(This table grows every week!)*
-
----
-
-## 📅 Daily Log
-
-| Date | Topic | Problem(s) Solved | Notes |
-|------|-------|-------------------|-------|
-| Day 1 | Arrays Basics | Kadane's Algorithm | Tricky edge case with all negatives |
-| Day 2 | Two Pointers | Container With Most Water | Drew it out before coding |
-| Day 3 | HashMaps | Group Anagrams | Sorted string as key — elegant! |
-| ... | ... | ... | ... |
+| Topic        | Status        |
+|--------------|--------------|
+| Arrays       | ✅ Completed |
+| Strings      | ✅ Completed |
+| Linked List  | 🔄 In Progress |
+| Stack        | ⏳ Coming Soon |
+| Queue        | ⏳ Coming Soon |
+| Trees        | ⏳ Coming Soon |
+| Graph        | ⏳ Coming Soon |
+| DP           | ⏳ Coming Soon |
 
 ---
 
-## 🧩 My Problem-Solving Template
+## 🛠️ Tech Stack
 
-Every problem I solve follows this structure:
-
-```
-## Problem Name
-
-### 🔍 Understanding
-[What is the problem really asking?]
-
-### 💡 Approach
-[Brute force → Optimized thinking]
-
-### ⏱️ Complexity
-- Time: O(?)
-- Space: O(?)
-
-### 💻 Code
-[Clean, commented implementation]
-
-### 📝 Key Takeaway
-[What did I learn from this?]
-```
+- Language: **Java**  
+- IDE: IntelliJ / VS Code  
+- Platforms: LeetCode / GeeksforGeeks / CodeStudio  
 
 ---
 
-## 📊 Stats
+## 🌟 Why This Repository?
 
-<div align="center">
+This repository is not just about code.  
+It represents:
 
-| Metric | Count |
-|--------|-------|
-| 🗓️ Days Active | ![days](https://img.shields.io/badge/-0-lightgrey) |
-| ✅ Problems Solved | ![solved](https://img.shields.io/badge/-0-lightgrey) |
-| 🧠 Concepts Covered | ![concepts](https://img.shields.io/badge/-0-lightgrey) |
-| 🔥 Current Streak | ![streak](https://img.shields.io/badge/-0%20days-red) |
+> **Discipline beats motivation.**
 
-*(Updated weekly)*
-
-</div>
-
----
-
-## 🛠️ Tools & Resources
-
-**Practice Platforms**
-- [LeetCode](https://leetcode.com) — Primary problem bank
-- [NeetCode](https://neetcode.io) — Structured roadmap & solutions
-- [Visualgo](https://visualgo.net) — Algorithm visualization
-
-**Books / Courses**
-- *Grokking Algorithms* — Aditya Bhargava *(Beginner friendly)*
-- *Introduction to Algorithms (CLRS)* *(Reference)*
-- NeetCode 150 Course
-
-**My Language:** `Python`
+If you're also learning DSA, feel free to fork ⭐ and start your journey today!
 
 ---
 
 ## 🤝 Let's Connect
 
-If you're also on a DSA journey, let's keep each other accountable!
-
-- ⭐ **Star this repo** if it motivates you
-- 🍴 **Fork it** and start your own daily log
-- 💬 **Open an Issue** if you spot a bug in my solution or have a better approach
-
-> *Every expert was once a beginner who refused to quit.*
+If you are preparing for interviews or learning DSA,  
+let’s grow together 💡  
 
 ---
 
-<div align="center">
-
-Made with 💪 and `git commit -m "day n: never stopping"`
-
-</div>
+🔥 **Consistency + Clarity + Code = Confidence**
