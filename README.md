@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge" />
+  <a href="https://github.com/poojas2003">
+    <img src="https://img.shields.io/github/followers/?label=Followers&style=for-the-badge" />
   </a>
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/poojas2003?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Code-Java-orange?style=for-the-badge&logo=java" />
   <img src="https://img.shields.io/badge/DSA-Daily_Practice-blue?style=for-the-badge" />
 </p>
