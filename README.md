@@ -76,7 +76,7 @@ To become:
 - Strong in problem-solving  
 - Interview ready  
 - Confident Java developer  
-- Future Software Engineer 🚀  
+- Software Engineer 🚀  
 
 ---
 
@@ -84,8 +84,8 @@ To become:
 
 | Topic        | Status        |
 |--------------|--------------|
-| Arrays       | ✅ Completed |
-| Strings      | ✅ Completed |
+| Arrays       | 🔄 In Progress |
+| Strings      | 🔄 In Progress |
 | Linked List  | 🔄 In Progress |
 | Stack        | ⏳ Coming Soon |
 | Queue        | ⏳ Coming Soon |
@@ -98,8 +98,8 @@ To become:
 ## 🛠️ Tech Stack
 
 - Language: **Java**  
-- IDE: IntelliJ / VS Code  
-- Platforms: LeetCode / GeeksforGeeks / CodeStudio  
+- IDE: VS Code  
+- Platforms: LeetCode
 
 ---
 
