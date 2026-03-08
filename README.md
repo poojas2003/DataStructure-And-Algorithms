@@ -1,9 +1,9 @@
-# 🚀 Data Structures & Algorithms in Java  
+# 🚀 Data Structures & Algorithms in Java and Python
 
 > 💻 Daily DSA Practice | 📅 Consistent Commits | 🧠 Problem Solving Journey  
 
 Hi, I'm **Pooja S P** 👋  
-I'm currently mastering **Data Structures & Algorithms using Java** and committing my progress every single day.
+I'm currently mastering **Data Structures & Algorithms using Java and Python** and committing my progress every single day.
 
 This repository is a reflection of:
 - 📈 Consistency  
