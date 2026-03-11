@@ -260,4 +260,4 @@ Using prefix sums reduces the complexity from **O(N²)** to **O(N)**, making the
 
 ---
 
-⭐ *Consistent practice with problems like this builds strong problem-solving skills and algorithmic thinking.*
+⭐ *Consistent practice with problems like this builds strong problem-solving skills.*
