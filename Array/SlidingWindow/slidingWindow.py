@@ -6,7 +6,7 @@ end=K-1
 
 result=float('-inf')
 
-while(e<n):
+while(end<n):
     subArraySum=0
     for i in range(start,end+1):
         subArraySum+=A[i]
