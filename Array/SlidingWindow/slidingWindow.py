@@ -15,3 +15,18 @@ while(end<n):
     end+=1
         
 print(result);
+
+//Time Complexity---O(n)
+A=[1,2,3,4,5,6,-1]
+k=4
+n=len(A)
+
+window_sum=sum(A[0:k])
+max_sum=window_sum
+
+for i in range(k,n):
+    window_sum=window_sum+A[i]-A[i-k]
+    max_sum=max(window_sum,max_sum)
+    
+print(max_sum)    
+    
