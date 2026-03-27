@@ -129,7 +129,7 @@ if ch in "({[":
 
 ---
 
-## 🔥 Practice More
+## 🔥 Practice 
 
 * Remove outer parentheses
 * Longest valid parentheses
